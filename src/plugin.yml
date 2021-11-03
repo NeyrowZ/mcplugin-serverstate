@@ -1,0 +1,12 @@
+name: ServerState
+version: 1.0.0
+author: NeyrowZ
+main: net.neyrowz.serverstate.Main
+api-version: 1.17
+website: https://github.com/NeyrowZ
+commands:
+  serverstate:
+    description: Generic plugin command.
+    permission: serverstate.*
+    aliases:
+      - ss
